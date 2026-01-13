@@ -1,2 +1,1 @@
-Test of ADC using polling and one accelerometer 
-
+Test of PWM_TIM_IT_Bare_Metal
